@@ -1,0 +1,20 @@
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\bin\Debug\net8.0-windows\OOP System.exe
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\bin\Debug\net8.0-windows\OOP System.deps.json
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\bin\Debug\net8.0-windows\OOP System.runtimeconfig.json
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\bin\Debug\net8.0-windows\OOP System.dll
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\bin\Debug\net8.0-windows\OOP System.pdb
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP_System.Form1.resources
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP_System.Properties.Resources.resources
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP System.csproj.GenerateResource.cache
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP System.AssemblyInfoInputs.cache
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP System.AssemblyInfo.cs
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP System.csproj.CoreCompileInputs.cache
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP System.sourcelink.json
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP System.dll
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\refint\OOP System.dll
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP System.pdb
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP System.genruntimeconfig.cache
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\ref\OOP System.dll
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP_System.Dashboard.resources
+C:\Users\delat\source\repos\maeloraine\2nd-yr-Programs\OOP System\obj\Debug\net8.0-windows\OOP_System.Forgot_Password.resources
